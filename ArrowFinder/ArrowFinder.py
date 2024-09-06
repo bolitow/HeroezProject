@@ -135,7 +135,7 @@ def traiter_repertoire(input_dir, output_dir, csv_filename):
 
 
 # Appeler la fonction pour traiter un répertoire et enregistrer dans un CSV
-input_directory = "Test/"
-output_directory = "Test_output/"
+input_directory = "World Edge/"
+output_directory = "Output/"
 csv_filename = "clusters_data.csv"
 traiter_repertoire(input_directory, output_directory, csv_filename)
